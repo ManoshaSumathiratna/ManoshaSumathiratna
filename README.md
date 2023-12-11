@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manosha <br/>Data Analyst, Statistical Analyst </h1>
+<h1>Hi, I'm Manosha <br/>Data Analyst | Statistical Analyst </h1>
 
 <h2><b>Projects / Research Work</b></h2>
 
